@@ -1,0 +1,7 @@
+Header header
+float32 battery_voltage
+float32 current_consumption
+float32 left_motor_current
+float32 right_motor_current
+float32 ambient_temp
+float32 battery_temp
